@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-pz0ux8.jambul126.xyz/sitemap.xml
